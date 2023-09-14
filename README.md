@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%231AF73D&size=27&width=500&lines=Hey!+It's+Vinayak+Pandey!;I'm+a+learning+developer...;I+love+to+code%2C+work+on+cool+projects;and+take+on+challenges...;Thanks+for+visiting+%E2%9D%A4%EF%B8%8F)](https://github.com/huseynamirahmadov)
 
-[<img src="https://github.com/VintellX/VintellX/blob/main/resources/hr.gif"/>](https://github.com/huseynamirahmadov)
+[<img src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif"/>](https://github.com/huseynamirahmadov)
 
 <h1> <img src="https://animesher.com/orig/1/171/1714/17142/animesher.com_gif-anime-cap-retro-anime-1714248.gif" width="70px"> About Me </h1>
 
