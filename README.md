@@ -13,7 +13,7 @@
 
  🔭 I’m currently working on My portfolio website
 
- 🌱 I’m currently learning **Flutter**
+ 🌱 I’m currently learning **Next.js**
 
  💬 Ask me about **JavaScript, React**
 
