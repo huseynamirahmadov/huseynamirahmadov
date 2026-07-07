@@ -13,8 +13,6 @@
 
  🔭 I’m currently working on My portfolio website
 
- 🌱 I’m currently learning **Next.js**
-
  💬 Ask me about **JavaScript, React**
 
  📫 Reach out to me: **huseynamirahmadov@gmail.com**
